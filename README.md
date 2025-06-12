@@ -1,12 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+there%2C+hacker!;Welcome+to+my+terminal+👨‍💻;Access+granted...;Loading+frontend+modules...;Injecting+React+magic...;Enjoy+the+source+code." alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm 0xYourName 🦖</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="280" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" width="600" alt="Chrome Dino Running" />
 </p>
 
 ---
 
-### 💻 SYSTEM LOG
+### 👨‍💻 About Me
 
+```bash
+> System booting...
+> Running Dino Protocol...
+> Developer detected 🧠
+> Skills: JavaScript | React | Next.js | Tailwind | TypeScript | UI/UX
