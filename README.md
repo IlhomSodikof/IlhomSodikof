@@ -1,20 +1,38 @@
-<h1 align="center">Salom! 👋 Men Ilhom Sodikov</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | Open Source Contributor</h3>
+# Hi there, I'm [Your Name]! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TailwindCSS;Creative+Web+Designer;Open+Source+Contributor;Loves+clean+code+and+coffee!" alt="Typing SVG" />
-</p>
+## 🚀 About Me
+[Write a short bio about yourself here]
 
----
+## 📊 GitHub Stats
 
-## 📊 Umumiy Statistika
+### My GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</div>
 
-```bash
-$ git stats
-Repositories: 50
-Commits: 2,350
-Pull Requests: 120
-Issues: 45
-Stars: 300
-Forks: 25
-Contributions this week: 15
+### Weekly Development Breakdown
+
+{
+  "type": "bar",
+  "data": {
+    "labels": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "datasets": [{
+      "label": "Commits",
+      "data": [10, 12, 8, 15, 9, 5, 7],
+      "backgroundColor": "rgba(75, 192, 192, 0.6)"
+    }]
+  },
+  "options": {
+    "responsive": true,
+    "plugins": {
+      "legend": {
+        "position": "top"
+      },
+      "title": {
+        "display": true,
+        "text": "Weekly Commit Activity"
+      }
+    }
+  }
+}
