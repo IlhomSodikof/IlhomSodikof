@@ -1,48 +1,78 @@
 # Salom, mening ismim [Ismingiz]! 👋
 
 ## 🚀 Men haqimda
-Men frontend dasturchiman va yangi texnologiyalarni o'rganishni yaxshi ko'raman. HTML, CSS, JavaScript va React asosiy ish qurolim hisoblanadi.
+[O'zingiz haqingizda qisqacha ma'lumot]
 
 ## 📊 GitHub Statistikalarim
 
-### Umumiy statistikalar
+### Dasturlash Tillari Taqsimoti
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIZNING_USERNAME&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAME&layout=compact&theme=radical&locale=en" alt="Top Languages" width="45%" />
+  <div style="width: 300px; height: 200px; background: #f3f3f3; border-radius: 10px; padding: 10px; margin: 10px 0;">
+    <div style="display: flex; justify-content: space-between; height: 100%;">
+      <div style="width: 20%; background: #ff6384; height: 70%; align-self: flex-end;" title="JavaScript 35%"></div>
+      <div style="width: 20%; background: #36a2eb; height: 50%; align-self: flex-end;" title="Python 25%"></div>
+      <div style="width: 20%; background: #ffce56; height: 40%; align-self: flex-end;" title="HTML/CSS 20%"></div>
+      <div style="width: 20%; background: #4bc0c0; height: 30%; align-self: flex-end;" title="TypeScript 15%"></div>
+      <div style="width: 20%; background: #9966ff; height: 10%; align-self: flex-end;" title="Boshqalar 5%"></div>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-top: 5px;">
+      <span style="font-size: 10px;">JS</span>
+      <span style="font-size: 10px;">Py</span>
+      <span style="font-size: 10px;">HTML</span>
+      <span style="font-size: 10px;">TS</span>
+      <span style="font-size: 10px;">Bosh</span>
+    </div>
+  </div>
 </div>
 
-### Haftalik ishlash grafigi
-![Haftalik aktivlik](https://github-readme-activity-graph.vercel.app/graph?username=SIZNING_USERNAME&theme=react-dark&hide_border=true&area=true)
-
-### Kontributsiya statistikasi
-![Kontributsiya](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIZNING_USERNAME&theme=github_dark)
-
-### Repozitoriyalar statistikasi
+### Haftalik Commitlar
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIZNING_USERNAME&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIZNING_USERNAME&theme=github_dark" width="45%" />
+  <div style="width: 100%; max-width: 500px; background: #f3f3f3; border-radius: 10px; padding: 10px; margin: 10px 0;">
+    <div style="display: flex; height: 150px; align-items: flex-end; justify-content: space-around;">
+      <div style="width: 12%; background: #4bc0c0; height: 30%;" title="Dushanba: 10 commit"></div>
+      <div style="width: 12%; background: #4bc0c0; height: 36%;" title="Seshanba: 12 commit"></div>
+      <div style="width: 12%; background: #4bc0c0; height: 24%;" title="Chorshanba: 8 commit"></div>
+      <div style="width: 12%; background: #4bc0c0; height: 45%;" title="Payshanba: 15 commit"></div>
+      <div style="width: 12%; background: #4bc0c0; height: 27%;" title="Juma: 9 commit"></div>
+      <div style="width: 12%; background: #4bc0c0; height: 15%;" title="Shanba: 5 commit"></div>
+      <div style="width: 12%; background: #4bc0c0; height: 21%;" title="Yakshanba: 7 commit"></div>
+    </div>
+    <div style="display: flex; justify-content: space-around; margin-top: 5px;">
+      <span style="font-size: 10px;">Du</span>
+      <span style="font-size: 10px;">Se</span>
+      <span style="font-size: 10px;">Chor</span>
+      <span style="font-size: 10px;">Pay</span>
+      <span style="font-size: 10px;">Ju</span>
+      <span style="font-size: 10px;">Sha</span>
+      <span style="font-size: 10px;">Yak</span>
+    </div>
+  </div>
 </div>
 
-### Streak statistikasi
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SIZNING_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
+### Progress Barlar
+<div style="width: 100%; max-width: 600px;">
+  <h4>Texnologiya Bilim Darajasi</h4>
+  <div style="margin-bottom: 10px;">
+    <span>HTML/CSS</span>
+    <div style="width: 100%; background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 90%; height: 20px; background: #ff6384; border-radius: 5px;"></div>
+    </div>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <span>JavaScript</span>
+    <div style="width: 100%; background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 80%; height: 20px; background: #36a2eb; border-radius: 5px;"></div>
+    </div>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <span>React</span>
+    <div style="width: 100%; background: #e0e0e0; border-radius: 5px;">
+      <div style="width: 75%; height: 20px; background: #ffce56; border-radius: 5px;"></div>
+    </div>
+  </div>
+</div>
 
-## 🛠 Texnologiyalar va asboblar
+## 🛠 Texnologiyalar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,git,github,vscode,figma&theme=dark" />
-</p>
-
-## 🏆 GitHub trofeolari
-[![trophy](https://github-profile-trophy.vercel.app/?username=SIZNING_USERNAME&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Bog'lanish uchun
-<p align="left">
-  <a href="https://t.me/username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=light" />
 </p>
