@@ -5,4 +5,4 @@
 <a href="https://github.com/IlhomSodikof/DiagnoAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IlhomSodikof&repo=DiagnoAI" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
