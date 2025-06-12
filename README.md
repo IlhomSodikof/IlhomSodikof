@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://github.com/SIZNING_USERNAME/SIZNING_USERNAME/blob/main/assets/github-header.png?raw=true)
+  ![Header](https://github.com/IlhomSodikof/IlhomSodikof/blob/main/assets/github-header.png?raw=true)
   
   ### 👨‍💻 Dasturchi | 💻 Texnologiya Ishtirokchisi | 🌱 Doimo O'rganuvchi
   
