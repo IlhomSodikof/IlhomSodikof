@@ -1,70 +1,54 @@
-# Salom, mening ismim [Ismingiz]! 👋
-
-## 🚀 Men haqimda
-[O'zingiz haqingizda qisqacha ma'lumot]
-
-## 📊 GitHub Statistikalarim
-
-### Dasturlash Tillari Taqsimoti
 <div align="center">
-  <div style="width: 300px; height: 200px; background: #f3f3f3; border-radius: 10px; padding: 10px; margin: 10px 0;">
-    <div style="display: flex; justify-content: space-between; height: 100%;">
-      <div style="width: 20%; background: #ff6384; height: 70%; align-self: flex-end;" title="JavaScript 35%"></div>
-      <div style="width: 20%; background: #36a2eb; height: 50%; align-self: flex-end;" title="Python 25%"></div>
-      <div style="width: 20%; background: #ffce56; height: 40%; align-self: flex-end;" title="HTML/CSS 20%"></div>
-      <div style="width: 20%; background: #4bc0c0; height: 30%; align-self: flex-end;" title="TypeScript 15%"></div>
-      <div style="width: 20%; background: #9966ff; height: 10%; align-self: flex-end;" title="Boshqalar 5%"></div>
-    </div>
-    <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-      <span style="font-size: 10px;">JS</span>
-      <span style="font-size: 10px;">Py</span>
-      <span style="font-size: 10px;">HTML</span>
-      <span style="font-size: 10px;">TS</span>
-      <span style="font-size: 10px;">Bosh</span>
-    </div>
-  </div>
-</div>
+  
+  ![Header](https://github.com/SIZNING_USERNAME/SIZNING_USERNAME/blob/main/assets/github-header.png?raw=true)
+  
+  ### 👨‍💻 Dasturchi | 💻 Texnologiya Ishtirokchisi | 🌱 Doimo O'rganuvchi
+  
+  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/SIZNING_NIK)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/SIZNING_PROFIL)
+  [![Email](https://img.shields.io/badge/-Email-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:SIZNING_EMAIL@gmail.com)
+  
+  ---
 
-### Haftalik Commitlar
-<div align="center">
-  <div style="width: 100%; max-width: 500px; background: #f3f3f3; border-radius: 10px; padding: 10px; margin: 10px 0;">
-    <div style="display: flex; height: 150px; align-items: flex-end; justify-content: space-around;">
-      <div style="width: 12%; background: #4bc0c0; height: 30%;" title="Dushanba: 10 commit"></div>
-      <div style="width: 12%; background: #4bc0c0; height: 36%;" title="Seshanba: 12 commit"></div>
-      <div style="width: 12%; background: #4bc0c0; height: 24%;" title="Chorshanba: 8 commit"></div>
-      <div style="width: 12%; background: #4bc0c0; height: 45%;" title="Payshanba: 15 commit"></div>
-      <div style="width: 12%; background: #4bc0c0; height: 27%;" title="Juma: 9 commit"></div>
-      <div style="width: 12%; background: #4bc0c0; height: 15%;" title="Shanba: 5 commit"></div>
-      <div style="width: 12%; background: #4bc0c0; height: 21%;" title="Yakshanba: 7 commit"></div>
-    </div>
-   
-  </div>
-</div>
+  ## 🛠 Texnologiyalar
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,git,github,vscode,figma&theme=light" />
+  
+  ---
 
-### Progress Barlar
-<div style="width: 100%; max-width: 600px;">
-  <h4>Texnologiya Bilim Darajasi</h4>
-  <div style="margin-bottom: 10px;">
-    <span>HTML/CSS</span>
-    <div style="width: 100%; background: #fff; border-radius: 5px;">
-      <div style="width: 90%; height: 20px; background: #ff6384; border-radius: 5px;"></div>
-    </div>
+  ## 📊 Statistikalar
+  
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SIZNING_USERNAME&show_icons=true&theme=radical&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAME&layout=compact&theme=radical" />
   </div>
-  <div style="margin-bottom: 10px;">
-    <span>JavaScript</span>
-    <div style="width: 100%; background: #e0e0e0; border-radius: 5px;">
-      <div style="width: 80%; height: 20px; background: #36a2eb; border-radius: 5px;"></div>
-    </div>
-  </div>
-  <div style="margin-bottom: 10px;">
-    <span>React</span>
-    <div style="width: 100%; background: #e0e0e0; border-radius: 5px;">
-      <div style="width: 75%; height: 20px; background: #ffce56; border-radius: 5px;"></div>
-    </div>
-  </div>
-</div>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=SIZNING_USERNAME&theme=radical)
+  
+  ---
 
-## 🛠 Texnologiyalar
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=light" />
-</p>
+  ## 🏆 Loyihalar
+  
+  ### 🔥 Mashhur Repolar
+  - [Loyiha Nomi](https://github.com/SIZNING_USERNAME/REPO_LINK) - Qisqacha tavsif
+  - [Loyiha Nomi](https://github.com/SIZNING_USERNAME/REPO_LINK) - Qisqacha tavsif
+  
+  ### 🌱 Oxirgi Ishlarim
+  - [Loyiha Nomi](https://github.com/SIZNING_USERNAME/REPO_LINK) - Qisqacha tavsif
+  - [Loyiha Nomi](https://github.com/SIZNING_USERNAME/REPO_LINK) - Qisqacha tavsif
+  
+  ---
+
+  ## 🎨 Badgelar
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </div>
+  
+  ---
+  
+  <img src="https://komarev.com/ghpvc/?username=SIZNING_USERNAME&color=blue&style=flat" />
+  
+</div>
