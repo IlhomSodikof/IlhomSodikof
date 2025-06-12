@@ -37,15 +37,7 @@
       <div style="width: 12%; background: #4bc0c0; height: 15%;" title="Shanba: 5 commit"></div>
       <div style="width: 12%; background: #4bc0c0; height: 21%;" title="Yakshanba: 7 commit"></div>
     </div>
-    <div style="display: flex; justify-content: space-around; margin-top: 5px;">
-      <span style="font-size: 10px;">Du</span>
-      <span style="font-size: 10px;">Se</span>
-      <span style="font-size: 10px;">Chor</span>
-      <span style="font-size: 10px;">Pay</span>
-      <span style="font-size: 10px;">Ju</span>
-      <span style="font-size: 10px;">Sha</span>
-      <span style="font-size: 10px;">Yak</span>
-    </div>
+   
   </div>
 </div>
 
@@ -54,7 +46,7 @@
   <h4>Texnologiya Bilim Darajasi</h4>
   <div style="margin-bottom: 10px;">
     <span>HTML/CSS</span>
-    <div style="width: 100%; background: #e0e0e0; border-radius: 5px;">
+    <div style="width: 100%; background: #fff; border-radius: 5px;">
       <div style="width: 90%; height: 20px; background: #ff6384; border-radius: 5px;"></div>
     </div>
   </div>
